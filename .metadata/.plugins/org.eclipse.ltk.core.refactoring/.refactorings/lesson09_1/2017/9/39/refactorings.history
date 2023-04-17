@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="要素 &apos;Tank.java&apos; を &apos;lesson10_1/src/lesson10_1&apos; にコピー&#x0D;&#x0A;- オリジナル・プロジェクト : &apos;lesson09_1&apos;&#x0D;&#x0A;- ターゲット要素 : &apos;lesson10_1/src/lesson10_1&apos;&#x0D;&#x0A;- オリジナル要素: &apos;lesson09_1.Tank.java&apos;" description="コンパイル単位のコピー" destination="=lesson10_1/src&lt;lesson10_1" element1="/src&lt;lesson09_1{Tank.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1506649356292" units="1" version="1.0"/>
+</session>

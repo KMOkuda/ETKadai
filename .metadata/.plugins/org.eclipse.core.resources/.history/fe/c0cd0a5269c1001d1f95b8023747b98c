@@ -1,0 +1,39 @@
+package game;
+
+import lejos.hardware.lcd.LCD;
+
+/**
+ * ログクラス インスタンスを単一にするため、Singleton パターンを採用
+ * 
+ * @author 後藤 聡文
+ *
+ */
+public class Log {
+    // タスクの呼び出し回数
+    private int count;
+
+    private static Log instance = new Log();
+
+    private Game game;
+
+    private Log() {
+    }
+
+    public static Log getInstance() {
+        return instance;
+    }
+
+    public void setGame(Game game) {
+        this.game = game;
+    }
+
+    public void disp() {
+        countUp();
+        LCD.drawString("LogTask ", 0, 5);
+        LCD.drawString(Integer.toString(count), 10, 5);
+    }
+
+    public void countUp() {
+        count++;
+    }
+}

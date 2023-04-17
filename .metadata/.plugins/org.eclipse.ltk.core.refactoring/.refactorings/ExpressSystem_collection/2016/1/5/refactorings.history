@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;ExpressSystem_collection&apos;&#x0D;&#x0A;- Original project: &apos;ExpressSystem_collection&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     CollectionActionController.jar&#x0D;&#x0A;     LineDriveControllerTest.jar&#x0D;&#x0A;     SideDriveControllerTest.jar" description="Delete elements" element1="LineDriveControllerTest.jar" element2="SideDriveControllerTest.jar" element3="CollectionActionController.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1453952908462" subPackages="false" version="1.0"/>
+</session>

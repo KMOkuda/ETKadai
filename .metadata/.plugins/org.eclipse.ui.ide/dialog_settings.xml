@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.cvs:1.4.200.v20150904-0015"/>
+		<item value="org.eclipse.emf.common:2.11.0.v20150805-0538"/>
+		<item value="org.eclipse.emf.ecore:2.11.1.v20150805-0538"/>
+		<item value="org.eclipse.help:2.1.1.v20150904-0015"/>
+		<item value="org.eclipse.jdt:3.11.1.v20150904-0015"/>
+		<item value="org.eclipse.pde:3.11.1.v20150904-0345"/>
+		<item value="org.eclipse.platform:4.5.1.v20150904-0015"/>
+		<item value="org.eclipse.rcp:4.5.1.v20150904-0015"/>
+		<item value="org.eclipse.sdk:4.5.1.v20150904-0345"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="true" key="BUILD_ALL"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="441" key="DIALOG_HEIGHT"/>
+		<item value="433" key="DIALOG_X_ORIGIN"/>
+		<item value="112" key="DIALOG_Y_ORIGIN"/>
+		<item value="false" key="BUILD_NOW"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\work_svn\80_高等教育機関向け授業教材-Java\trunk\SampleProgram"/>
+			<item value="C:\work\_trn\robotAcademy_L4_student\workspace\lesson20"/>
+			<item value="C:\work\robotAcademy_L4\workspace"/>
+			<item value="C:\Users\karub_000\Desktop\EV3Java\EV3Java\workspace\Touch_Sample"/>
+			<item value="C:\Users\karub_000\Desktop\EV3Java\EV3Java\workspace\Sonar_Sample"/>
+			<item value="C:\Users\karub_000\Desktop\EV3Java\EV3Java\workspace\RemoteSystemsTempFiles"/>
+			<item value="C:\Users\karub_000\Desktop\EV3Java\EV3Java\workspace\Motor_Sample"/>
+			<item value="C:\Users\karub_000\Desktop\EV3Java\EV3Java\workspace\LineTrace_Sample"/>
+			<item value="C:\Users\karub_000\Desktop\EV3Java\EV3Java\workspace\LED_Sample"/>
+			<item value="C:\Users\karub_000\Desktop\EV3Java\EV3Java\workspace\Key_Sample"/>
+			<item value="C:\Users\karub_000\Desktop\EV3Java\EV3Java\workspace\Color_Sample"/>
+			<item value="C:\Users\karub_000\Desktop\EV3Java\EV3Java\workspace\AdvanceLineTrace_Sample"/>
+			<item value="C:\Users\karub_000\Desktop\EV3Java\EV3Java\workspace\EV3FirstProgram"/>
+			<item value="C:\Users\karub_000\Downloads\EV3-leJOS_env\コピー環境\pleiades_leJOS\workspace\EV3FirstProgram"/>
+			<item value="C:\Users\logix\Desktop\EV3Java\workspace"/>
+			<item value="C:\Users\logix\Desktop\EV3Java\workspace\ExpressSystem_collection"/>
+			<item value="D:\Users\logix\Desktop\EV3Java\workspace"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="C:\Users\karub_000\Desktop\EV3Java\EV3Java\eclipse\..\leJOS_EV3\samples.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="189" key="DIALOG_X_ORIGIN"/>
+		<item value="197" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

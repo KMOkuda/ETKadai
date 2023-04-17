@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="要素 &apos;Tank.java&apos; を &apos;ev3_14_p_trace/src/ev3_14_p_trace&apos; にコピー&#x0D;&#x0A;- オリジナル・プロジェクト : &apos;ev3_13_onoff_trace&apos;&#x0D;&#x0A;- ターゲット要素 : &apos;ev3_14_p_trace/src/ev3_14_p_trace&apos;&#x0D;&#x0A;- オリジナル要素: &apos;ev3_13_onoff_trace.Tank.java&apos;" description="コンパイル単位のコピー" destination="=ev3_14_p_trace/src&lt;ev3_14_p_trace" element1="/src&lt;ev3_13_onoff_trace{Tank.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1526363438975" units="1" version="1.0"/>
+</session>

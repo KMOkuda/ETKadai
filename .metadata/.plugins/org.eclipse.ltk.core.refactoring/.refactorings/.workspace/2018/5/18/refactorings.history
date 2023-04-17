@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Java プロジェクト名を &apos;ev3_10_touch1&apos; から &apos;ev3_10_touch&apos; に変更します&#x0D;&#x0A;- オリジナル要素: &apos;ev3_10_touch1&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;ev3_10_touch1&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="Java プロジェクト &apos;ev3_10_touch1&apos; の名前変更" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=ev3_10_touch1" name="ev3_10_touch" references="true" stamp="1525237116981" version="1.0"/>
+</session>

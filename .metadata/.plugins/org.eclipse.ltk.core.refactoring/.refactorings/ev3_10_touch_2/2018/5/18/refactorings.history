@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="パッケージ &apos;ev3Sensor&apos; を &apos;ev3_11_color/src&apos; にコピー&#x0D;&#x0A;- オリジナル・プロジェクト : &apos;ev3_10_touch_2&apos;&#x0D;&#x0A;- ターゲット要素 : &apos;ev3_11_color/src&apos;&#x0D;&#x0A;- オリジナル要素: &apos;ev3_10_touch_2/src/ev3Sensor&apos;" description="パッケージのコピー" destination="=ev3_11_color/src" element1="/src&lt;ev3Sensor" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1525245238811" version="1.0"/>
+</session>

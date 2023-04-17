@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;receiveTask&apos; in &apos;unit.CommUnit&apos; to &apos;receiveFuture&apos;&#x0D;&#x0A;- Original project: &apos;ExpressSystem_unit&apos;&#x0D;&#x0A;- Original element: &apos;unit.CommUnit.receiveTask&apos;&#x0D;&#x0A;- Renamed element: &apos;unit.CommUnit.receiveFuture&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;receiveTask&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;unit{CommUnit.java[CommUnit^receiveTask" name="receiveFuture" references="true" setter="false" stamp="1454912682043" textual="false" version="1.0"/>
+</session>

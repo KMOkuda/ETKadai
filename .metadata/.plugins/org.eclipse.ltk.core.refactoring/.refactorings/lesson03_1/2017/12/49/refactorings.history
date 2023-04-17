@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="要素 &apos;Lesson03_1.java&apos; を &apos;ev3Sensor&apos; にコピー&#x0D;&#x0A;- オリジナル・プロジェクト : &apos;lesson03_1&apos;&#x0D;&#x0A;- ターゲット要素 : &apos;ev3Sensor&apos;&#x0D;&#x0A;- オリジナル要素: &apos;lesson03_1.Lesson03_1.java&apos;" description="コンパイル単位のコピー" destination="=ev3Sensor" element1="/src&lt;lesson03_1{Lesson03_1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1512708755908" units="1" version="1.0"/>
+</session>
