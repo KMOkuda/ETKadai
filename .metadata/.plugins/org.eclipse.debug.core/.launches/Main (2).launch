@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.lejos.ev3.ldt.LaunchType">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Kadai2/src/test/Main.java"/>
+<listEntry value="/Kadai7/src/test/Main.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="test.Main"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Kadai2"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Kadai7"/>
 </launchConfiguration>

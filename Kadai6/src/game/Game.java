@@ -84,7 +84,7 @@ public class Game {
             course.update();
             if (touch.isUpped()) {
                 course.setBlack(course.getBrightness());
-                course.setTarget(course.getBlack() + course.getWhite());
+                course.setTarget((course.getBlack() + course.getWhite()) / 2.0f);
                 Beep.ring();
                 status = STATUS.WAITSTART;
             }

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.lejos.ev3.ldt.LaunchType">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/ev3_12_us/src/ev3_12_us/Ev3US.java"/>
+<listEntry value="/ev3_12_us/src/ev3_12_us/Ev3Us.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ev3_12_us.Ev3US"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ev3_12_us.Ev3Us"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ev3_12_us"/>
 </launchConfiguration>

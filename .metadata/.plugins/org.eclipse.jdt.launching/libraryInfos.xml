@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
-<libraryInfo home="C:\EV3Java\jdk\jre" version="1.8.0_72">
+<libraryInfo home="C:\Ev3Java\jdk" version="1.8.0_72">
 <bootpath>
-<entry path="C:\EV3Java\jdk\jre\lib\resources.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\rt.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\sunrsasign.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\jsse.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\jce.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\charsets.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\jfr.jar"/>
-<entry path="C:\EV3Java\jdk\jre\classes"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\resources.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\rt.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\jsse.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\jce.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\charsets.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\jfr.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\classes"/>
 </bootpath>
 <extensionDirs>
-<entry path="C:\EV3Java\jdk\jre\lib\ext"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\ext"/>
 <entry path="C:\Windows\Sun\Java\lib\ext"/>
 </extensionDirs>
 <endorsedDirs>
-<entry path="C:\EV3Java\jdk\jre\lib\endorsed"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\endorsed"/>
 </endorsedDirs>
 </libraryInfo>
 <libraryInfo home="C:\Users\logix\Desktop\EV3Java\jdk" version="1.8.0_72">
@@ -36,25 +36,6 @@
 </extensionDirs>
 <endorsedDirs>
 <entry path="C:\Users\logix\Desktop\EV3Java\jdk\jre\lib\endorsed"/>
-</endorsedDirs>
-</libraryInfo>
-<libraryInfo home="C:\EV3Java\jdk" version="1.8.0_72">
-<bootpath>
-<entry path="C:\EV3Java\jdk\jre\lib\resources.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\rt.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\sunrsasign.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\jsse.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\jce.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\charsets.jar"/>
-<entry path="C:\EV3Java\jdk\jre\lib\jfr.jar"/>
-<entry path="C:\EV3Java\jdk\jre\classes"/>
-</bootpath>
-<extensionDirs>
-<entry path="C:\EV3Java\jdk\jre\lib\ext"/>
-<entry path="C:\Windows\Sun\Java\lib\ext"/>
-</extensionDirs>
-<endorsedDirs>
-<entry path="C:\EV3Java\jdk\jre\lib\endorsed"/>
 </endorsedDirs>
 </libraryInfo>
 <libraryInfo home="D:\Users\logix\Desktop\EV3Java\jdk" version="1.8.0_72">
@@ -112,6 +93,25 @@
 </extensionDirs>
 <endorsedDirs>
 <entry path="C:\Users\karub_000\Desktop\EV3Java\EV3Java\jdk\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Ev3Java\jdk\jre" version="1.8.0_72">
+<bootpath>
+<entry path="C:\Ev3Java\jdk\jre\lib\resources.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\rt.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\jsse.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\jce.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\charsets.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\lib\jfr.jar"/>
+<entry path="C:\Ev3Java\jdk\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Ev3Java\jdk\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Ev3Java\jdk\jre\lib\endorsed"/>
 </endorsedDirs>
 </libraryInfo>
 <libraryInfo home="C:\Users\karub_000\Desktop\EV3Java\EV3Java\jdk" version="1.8.0_72">

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="ソースフォルダ &apos;src&apos; を &apos;Kadai7&apos; にコピー&#x0D;&#x0A;- オリジナル・プロジェクト : &apos;Kadai6&apos;&#x0D;&#x0A;- ターゲット要素 : &apos;Kadai7&apos;&#x0D;&#x0A;- オリジナル要素: &apos;Kadai6/src&apos;" description="ソースフォルダのコピー" destination="=Kadai7" element1="/src" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1681782548071" version="1.0"/>
+</session>

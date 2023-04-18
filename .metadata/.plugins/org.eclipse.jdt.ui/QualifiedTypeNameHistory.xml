@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="FizzBuzz01"/>
+<fullyQualifiedTypeName name="java.util.function.Consumer"/>
+<fullyQualifiedTypeName name="java.util.function.IntConsumer"/>
+<fullyQualifiedTypeName name="java.applet.Applet"/>
+<fullyQualifiedTypeName name="java.io.DataInputStream"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="lejos.remote.nxt.NXTConnection"/>
 <fullyQualifiedTypeName name="java.lang.Boolean"/>
 <fullyQualifiedTypeName name="unit.CommUnit.CommUnitReceiver"/>
@@ -38,26 +44,20 @@
 <fullyQualifiedTypeName name="ev3Sensor.GyroSensor"/>
 <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
 <fullyQualifiedTypeName name="lejos.hardware.sensor.EV3GyroSensor"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.util.function.IntUnaryOperator"/>
-<fullyQualifiedTypeName name="lejos.hardware.sensor.EV3TouchSensor"/>
-<fullyQualifiedTypeName name="java.lang.Math"/>
-<fullyQualifiedTypeName name="lejos.hardware.device.LDCMotor"/>
-<fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+<fullyQualifiedTypeName name="lejos.hardware.port.Port"/>
 <fullyQualifiedTypeName name="lejos.hardware.motor.EV3LargeRegulatedMotor"/>
 <fullyQualifiedTypeName name="ev3_05_tank.Tank"/>
-<fullyQualifiedTypeName name="lejos.hardware.port.Port"/>
-<fullyQualifiedTypeName name="ev3_09_tank2.Tank2"/>
-<fullyQualifiedTypeName name="ev3_09_tank2.Tank"/>
+<fullyQualifiedTypeName name="lejos.hardware.sensor.EV3TouchSensor"/>
 <fullyQualifiedTypeName name="ev3Sensor.TouchSensor"/>
 <fullyQualifiedTypeName name="lejos.hardware.lcd.LCD"/>
-<fullyQualifiedTypeName name="ev3_11_color.Tank"/>
+<fullyQualifiedTypeName name="lejos.utility.Delay"/>
 <fullyQualifiedTypeName name="ev3Sensor.ColorSensor"/>
 <fullyQualifiedTypeName name="ev3_12_us.Tank"/>
 <fullyQualifiedTypeName name="lejos.hardware.port.MotorPort"/>
-<fullyQualifiedTypeName name="lejos.hardware.sensor.EV3SensorConstants"/>
 <fullyQualifiedTypeName name="ev3Sensor.UltraSonicSensor"/>
 <fullyQualifiedTypeName name="lejos.hardware.port.SensorPort"/>
 <fullyQualifiedTypeName name="ev3Sensor.EV3SensorMode"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="lejos.utility.Delay"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
 </qualifiedTypeNameHistroy>
